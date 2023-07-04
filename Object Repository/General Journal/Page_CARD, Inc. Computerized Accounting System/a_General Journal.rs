@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_General Journal</name>
+   <tag></tag>
+   <elementGuidId>638f672e-a202-4f0e-8878-eeef155e0eda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Reportid1']/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Reportid1 > li:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>495264b8-2534-4958-8e62-328b6e42f188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>General_Journal.jsp</value>
+      <webElementGuid>28dccf67-8a27-4229-ba1f-3a916f2f85a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Journal</value>
+      <webElementGuid>2097a8e2-03b2-4f7d-8dd0-4677dfe79637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Reportid1&quot;)/li[2]/a[1]</value>
+      <webElementGuid>9a10d3df-ddca-4716-8fac-b17bec2b8170</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Reportid1']/li[2]/a</value>
+      <webElementGuid>f7cf0c1c-b330-4368-b56a-67d7d8a962e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'General Journal')]</value>
+      <webElementGuid>a142cf7c-9849-434e-951c-9a54b9e75b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Ledger'])[1]/following::a[1]</value>
+      <webElementGuid>7a09e57c-1aaa-49c2-8c23-c169123b5159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book of Accounts'])[1]/following::a[2]</value>
+      <webElementGuid>6cf30a06-324f-4a75-9676-5861dd3fb966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Journal'])[1]/preceding::a[1]</value>
+      <webElementGuid>a30aea7b-1967-457c-9c38-c1b5ee9e3c4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase Journal'])[1]/preceding::a[2]</value>
+      <webElementGuid>38ca0887-48a2-4b37-9ae0-f324283a966b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='General Journal']/parent::*</value>
+      <webElementGuid>59ae1bea-baf2-4ce6-9f0a-5cb87d16815f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'General_Journal.jsp')]</value>
+      <webElementGuid>52b06921-6b46-4760-8284-db4143980d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/ul/li[2]/a</value>
+      <webElementGuid>139040e1-8427-48fb-9c28-74abd7d2a778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'General_Journal.jsp' and (text() = 'General Journal' or . = 'General Journal')]</value>
+      <webElementGuid>06d023cd-7938-4e88-a9f6-784ba0e9372b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

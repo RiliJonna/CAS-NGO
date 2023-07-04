@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Logout/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_loginButton",
+      "brokenLocator": "//input[@id\u003d\u0027loginButton\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u0027loginButton\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230704_131212/CAS Report/20230704_131212/Object Repository/Logout/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_loginButton_attributes.png"
+    }
+  ]
+}

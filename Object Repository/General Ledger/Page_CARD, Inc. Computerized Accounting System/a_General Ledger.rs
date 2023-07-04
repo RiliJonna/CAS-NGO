@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_General Ledger</name>
+   <tag></tag>
+   <elementGuidId>ea2f8112-e47b-4576-9f7b-3a8c57445884</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Reportid1']/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Reportid1 > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8ab891a9-d999-470e-b6e9-e80624c5f8c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>General_Ledger.jsp</value>
+      <webElementGuid>ac1d37cf-b0ec-4c93-b2b6-c2eefb987360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Ledger</value>
+      <webElementGuid>71211c74-5822-41f9-95ef-3dee58a69f8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Reportid1&quot;)/li[1]/a[1]</value>
+      <webElementGuid>4b175cca-de96-4020-93d7-29f47eb600cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Reportid1']/li/a</value>
+      <webElementGuid>685a59b7-5828-4320-934a-b8d8e1284791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'General Ledger')]</value>
+      <webElementGuid>69d2db61-c19c-41cd-ab99-8eca031a13b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book of Accounts'])[1]/following::a[1]</value>
+      <webElementGuid>9c794541-6c38-4e38-8e55-472b92e4d231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/following::a[2]</value>
+      <webElementGuid>cd35cbe9-ec98-4e1f-a872-4017ba4a8170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Journal'])[1]/preceding::a[1]</value>
+      <webElementGuid>5a439a90-1957-4655-aea7-acb1c1db35ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Journal'])[1]/preceding::a[2]</value>
+      <webElementGuid>7ffc8778-0bb1-466a-b097-1e3d96a7660b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='General Ledger']/parent::*</value>
+      <webElementGuid>321c1923-354e-41e6-affa-693fc3ef4c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'General_Ledger.jsp')]</value>
+      <webElementGuid>13e9474a-d80f-4e5c-82ee-34ae16d252db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/ul/li/a</value>
+      <webElementGuid>d0767bb4-ea05-4616-bf90-f952063de716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'General_Ledger.jsp' and (text() = 'General Ledger' or . = 'General Ledger')]</value>
+      <webElementGuid>149d01e5-edac-4fb8-9c48-5f80b0963102</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
