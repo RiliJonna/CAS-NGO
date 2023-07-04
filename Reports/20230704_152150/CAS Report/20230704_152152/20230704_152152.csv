@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CAS Report,Chrome 114.0.0.0,,,2023-07-04 15:21:55,2023-07-04 15:22:24,29.351s,ERROR
+,,,,,,,
+Test Cases/In and Out/Login,Chrome 114.0.0.0,,,2023-07-04 15:22:06,2023-07-04 15:22:09,3.259s,ERROR
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-04 15:22:06,2023-07-04 15:22:08,2.463s,PASSED
+"navigateToUrl(""https://castest.cardmri.com:8269/NGOFSReport/index.jsp"")",Chrome 114.0.0.0,,,2023-07-04 15:22:08,2023-07-04 15:22:09,0.493s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-04 15:22:09,2023-07-04 15:22:09,0.139s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_userName""), Username)",Chrome 114.0.0.0,,,2023-07-04 15:22:09,2023-07-04 15:22:09,0.086s,ERROR
+,,,,,,,
+Test Cases/Book of Account/General Ledger,Chrome 114.0.0.0,,,2023-07-04 15:22:22,2023-07-04 15:22:22,0.206s,FAILED
+"click(findTestObject(""Object Repository/General Ledger/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-04 15:22:22,2023-07-04 15:22:22,0.181s,FAILED
+,,,,,,,
+Test Cases/Book of Account/General Journal,Chrome 114.0.0.0,,,2023-07-04 15:22:23,2023-07-04 15:22:23,0.205s,FAILED
+"click(findTestObject(""Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-04 15:22:23,2023-07-04 15:22:23,0.198s,FAILED
+,,,,,,,
+Test Cases/In and Out/Logout,Chrome 114.0.0.0,,,2023-07-04 15:22:24,2023-07-04 15:22:24,0.176s,FAILED
+"click(findTestObject(""Object Repository/Logout/Page_CARD, Inc. Computerized Accounting System/a_Welcome  RILI                        Admi_b75451""))",Chrome 114.0.0.0,,,2023-07-04 15:22:24,2023-07-04 15:22:24,0.170s,FAILED

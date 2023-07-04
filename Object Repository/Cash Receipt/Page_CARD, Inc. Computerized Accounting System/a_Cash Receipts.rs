@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cash Receipts</name>
+   <tag></tag>
+   <elementGuidId>d2459ca2-2287-4c4d-8e89-82348e6a1cf2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Reportid1']/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Reportid1 > li:nth-of-type(5) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>02cceb87-2230-4238-932d-1754a75671fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Cash_Receipt.jsp</value>
+      <webElementGuid>a059be70-02d0-4fa0-ad5c-619580f8980f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cash Receipts</value>
+      <webElementGuid>85965a47-2ae5-4a9f-b5c7-806a3af890e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Reportid1&quot;)/li[5]/a[1]</value>
+      <webElementGuid>e42787e9-3bab-4996-8995-23d7cd5ec3b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Reportid1']/li[5]/a</value>
+      <webElementGuid>0b0f702b-f6e7-42cb-85f4-9e7f76f4e21a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cash Receipts')]</value>
+      <webElementGuid>7375fb8e-1e0e-4e60-804e-e16b4716747d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase Journal'])[1]/following::a[1]</value>
+      <webElementGuid>ba99cdfd-e5fa-48c9-b7a1-4e365085bba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Journal'])[1]/following::a[2]</value>
+      <webElementGuid>03105912-1450-4c2c-880e-06643d2dcf14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash Disbursement'])[1]/preceding::a[1]</value>
+      <webElementGuid>a025995c-1f2d-47b6-9ebb-1f5fac400555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subsidiary Ledger'])[1]/preceding::a[2]</value>
+      <webElementGuid>a32598c8-ea11-410c-beac-d20012048cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cash Receipts']/parent::*</value>
+      <webElementGuid>288d5dfb-0731-4458-b2bd-3a9fd6891f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Cash_Receipt.jsp')]</value>
+      <webElementGuid>8d5d30cb-0293-4141-bae4-c36b569df6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li/ul/li[5]/a</value>
+      <webElementGuid>51b442d5-1780-4af8-9803-a2e2e4ef7467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Cash_Receipt.jsp' and (text() = 'Cash Receipts' or . = 'Cash Receipts')]</value>
+      <webElementGuid>8cab8b56-c50c-4bc6-a2f1-ac67ab66eb4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

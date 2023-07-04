@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_---Select Item---La Union 1AbraIloco_046ef5</name>
+   <tag></tag>
+   <elementGuidId>09196dec-51f7-47ba-b7f1-5470b1f0f24b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cboBranch1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cboBranch1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>487014e4-4cb2-4160-8d8e-dcd7cb4fbf50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cboBranch1</value>
+      <webElementGuid>7e268147-2568-4bca-b6f1-d12803d5af3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control input-sm</value>
+      <webElementGuid>856de71d-c8ad-4ba1-9366-9076d7e507f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>---Select Item---La Union 1AbraIlocos 6Ilocos 7Ilocos 8</value>
+      <webElementGuid>0bb5cf34-5e97-4259-a81f-b3dda7114b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cboBranch1&quot;)</value>
+      <webElementGuid>a54df60a-9268-4b76-8325-b61927b328b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cboBranch1']</value>
+      <webElementGuid>e1711b45-c0f6-4fa4-b6e1-9354be19b596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div/div/div/div/div[3]/select</value>
+      <webElementGuid>e18f5831-3218-4a9c-840e-588a2fd6b6d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::select[1]</value>
+      <webElementGuid>ae1f16a9-5fb3-4407-84fe-2bcb440711e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Region'])[1]/following::select[2]</value>
+      <webElementGuid>eab05682-6339-416e-a4ee-1b66163e7b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit'])[1]/preceding::select[1]</value>
+      <webElementGuid>7731e1eb-4b36-4918-97fd-8899aaab9ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/preceding::select[2]</value>
+      <webElementGuid>012a1191-262e-4b0e-aa07-a5226ff6d7e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>7f90371a-33ef-4d31-a31b-41defb453820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'cboBranch1' and (text() = '---Select Item---La Union 1AbraIlocos 6Ilocos 7Ilocos 8' or . = '---Select Item---La Union 1AbraIlocos 6Ilocos 7Ilocos 8')]</value>
+      <webElementGuid>3476fb46-668f-4295-90ef-2dc0f587f589</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
