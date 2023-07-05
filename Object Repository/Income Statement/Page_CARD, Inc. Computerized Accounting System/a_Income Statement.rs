@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Income Statement</name>
+   <tag></tag>
+   <elementGuidId>2635bd46-c2af-4049-8047-6b2dea6532a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='Report2']/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Report2 > li:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f75500d6-9940-44e3-a89c-7dca16fc57a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Income_Statement.jsp</value>
+      <webElementGuid>9420639e-e550-43de-90be-73cd14e64499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Income Statement</value>
+      <webElementGuid>8ec8df7a-88ed-45a9-b0df-e0164bd8c62d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Report2&quot;)/li[2]/a[1]</value>
+      <webElementGuid>76509f64-4456-49a4-91af-b8e4893cf381</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='Report2']/li[2]/a</value>
+      <webElementGuid>f8845700-7869-473c-9870-22f08eb690b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Income Statement')]</value>
+      <webElementGuid>bae829b4-0dd1-4221-bfb5-161062f24a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trial Balance Report'])[1]/following::a[1]</value>
+      <webElementGuid>086f06c2-680f-469a-9d00-0b75ed174e03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Reports'])[1]/following::a[2]</value>
+      <webElementGuid>dc3dbb2d-47fa-430c-a8a3-54359d9795fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balance Sheet'])[1]/preceding::a[1]</value>
+      <webElementGuid>5f3965ab-3b45-4738-9404-1507fcb9c4de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjusting Entries'])[1]/preceding::a[2]</value>
+      <webElementGuid>3a4c9bcf-41b2-42e2-b756-4498b0968c44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Income Statement']/parent::*</value>
+      <webElementGuid>38899039-44b5-4708-b87f-c2e7537aa1c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Income_Statement.jsp')]</value>
+      <webElementGuid>f466bffb-ba12-40b0-a6f2-22bcefe55c7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>47f8a601-892a-4ca1-8e5e-7dc0bdd8ef76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Income_Statement.jsp' and (text() = 'Income Statement' or . = 'Income Statement')]</value>
+      <webElementGuid>16c5c49e-67fe-4739-abc4-3af978a3a780</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

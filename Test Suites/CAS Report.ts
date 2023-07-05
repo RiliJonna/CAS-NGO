@@ -67,7 +67,14 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>3d7c4ff7-d454-4860-b65d-cc2b8614bba7</guid>
+      <guid>05ca3ff4-698b-4620-92b1-f99d3f40866d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Other Reports/Income Statement</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0945318a-249b-4733-ba33-9af75295c0aa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/In and Out/Logout</testCaseId>

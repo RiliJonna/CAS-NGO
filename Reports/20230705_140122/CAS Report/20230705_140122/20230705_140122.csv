@@ -1,0 +1,76 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CAS Report,Chrome 114.0.0.0,,,2023-07-05 14:01:24,2023-07-05 14:04:40,3m - 16.157s,PASSED
+,,,,,,,
+Test Cases/In and Out/Login,Chrome 114.0.0.0,,,2023-07-05 14:01:24,2023-07-05 14:01:30,5.390s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-05 14:01:25,2023-07-05 14:01:27,2.488s,PASSED
+"navigateToUrl(""https://castest.cardmri.com:8269/NGOFSReport/index.jsp"")",Chrome 114.0.0.0,,,2023-07-05 14:01:27,2023-07-05 14:01:28,0.488s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-05 14:01:28,2023-07-05 14:01:28,0.164s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_userName""), Username)",Chrome 114.0.0.0,,,2023-07-05 14:01:28,2023-07-05 14:01:29,0.840s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_passWord""), ""MHSUC33hkPnBWRnjFBNCPA=="")",Chrome 114.0.0.0,,,2023-07-05 14:01:29,2023-07-05 14:01:29,0.542s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_loginButton""))",Chrome 114.0.0.0,,,2023-07-05 14:01:29,2023-07-05 14:01:30,0.447s,PASSED
+,,,,,,,
+Test Cases/Book of Account/General Ledger,Chrome 114.0.0.0,,,2023-07-05 14:01:30,2023-07-05 14:02:01,31.478s,PASSED
+"click(findTestObject(""Object Repository/General Ledger/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:01:30,2023-07-05 14:01:39,9.365s,PASSED
+"click(findTestObject(""Object Repository/General Ledger/Page_CARD, Inc. Computerized Accounting System/a_Book of Accounts""))",Chrome 114.0.0.0,,,2023-07-05 14:01:39,2023-07-05 14:01:40,0.496s,PASSED
+"click(findTestObject(""Object Repository/General Ledger/Page_CARD, Inc. Computerized Accounting System/a_General Ledger""))",Chrome 114.0.0.0,,,2023-07-05 14:01:40,2023-07-05 14:01:49,9.243s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/General Ledger/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Per RegionPer AreaPer Unit""), ""2"", true)",Chrome 114.0.0.0,,,2023-07-05 14:01:49,2023-07-05 14:01:50,1.164s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/General Ledger/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Head OfficeLuzon 1L_eb6cd5""), ""02"", true)",Chrome 114.0.0.0,,,2023-07-05 14:01:50,2023-07-05 14:01:53,2.373s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/General Ledger/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---La Union 1AbraIloco_046ef5""), ""B6"", true)",Chrome 114.0.0.0,,,2023-07-05 14:01:53,2023-07-05 14:01:54,1.255s,PASSED
+"click(findTestObject(""Object Repository/General Ledger/Page_CARD, Inc. Computerized Accounting System/input_End Date_btnPDF""))",Chrome 114.0.0.0,,,2023-07-05 14:01:54,2023-07-05 14:01:55,0.524s,PASSED
+"click(findTestObject(""Object Repository/General Ledger/Page_CARD, Inc. Computerized Accounting System/h1_General Ledger""))",Chrome 114.0.0.0,,,2023-07-05 14:01:55,2023-07-05 14:01:55,0.203s,PASSED
+"click(findTestObject(""Object Repository/General Ledger/Page_CARD, Inc. Computerized Accounting System/h1_General Ledger""))",Chrome 114.0.0.0,,,2023-07-05 14:01:55,2023-07-05 14:01:56,1.524s,PASSED
+"click(findTestObject(""Object Repository/General Ledger/Page_CARD, Inc. Computerized Accounting System/h1_General Ledger""))",Chrome 114.0.0.0,,,2023-07-05 14:01:56,2023-07-05 14:01:58,2.020s,PASSED
+"click(findTestObject(""Object Repository/General Ledger/Page_CARD, Inc. Computerized Accounting System/a_Welcome  RILI                        Admi_b75451""))",Chrome 114.0.0.0,,,2023-07-05 14:01:58,2023-07-05 14:02:01,2.949s,PASSED
+,,,,,,,
+Test Cases/Book of Account/General Journal,Chrome 114.0.0.0,,,2023-07-05 14:02:12,2023-07-05 14:02:27,15.728s,PASSED
+"click(findTestObject(""Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:02:12,2023-07-05 14:02:12,0.436s,PASSED
+"click(findTestObject(""Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/a_Book of Accounts""))",Chrome 114.0.0.0,,,2023-07-05 14:02:12,2023-07-05 14:02:12,0.419s,PASSED
+"click(findTestObject(""Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/a_General Journal""))",Chrome 114.0.0.0,,,2023-07-05 14:02:12,2023-07-05 14:02:21,8.156s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Per RegionPer AreaPer Unit""), ""2"", true)",Chrome 114.0.0.0,,,2023-07-05 14:02:21,2023-07-05 14:02:22,1.191s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Head OfficeLuzon 1L_eb6cd5""), ""02"", true)",Chrome 114.0.0.0,,,2023-07-05 14:02:22,2023-07-05 14:02:24,2.321s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---La Union 1AbraIloco_046ef5""), ""B6"", true)",Chrome 114.0.0.0,,,2023-07-05 14:02:24,2023-07-05 14:02:25,1.271s,PASSED
+"click(findTestObject(""Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/input_End Date_btnPDF_GJournal""))",Chrome 114.0.0.0,,,2023-07-05 14:02:25,2023-07-05 14:02:26,0.459s,PASSED
+"click(findTestObject(""Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/input_End Date_btnPDF_GJournal""))",Chrome 114.0.0.0,,,2023-07-05 14:02:26,2023-07-05 14:02:27,1.470s,PASSED
+,,,,,,,
+Test Cases/Book of Account/Cash Receipt,Chrome 114.0.0.0,,,2023-07-05 14:02:32,2023-07-05 14:02:59,27.072s,PASSED
+"click(findTestObject(""Object Repository/Cash Receipt/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:02:32,2023-07-05 14:02:33,0.510s,PASSED
+"click(findTestObject(""Object Repository/Cash Receipt/Page_CARD, Inc. Computerized Accounting System/a_Book of Accounts""))",Chrome 114.0.0.0,,,2023-07-05 14:02:33,2023-07-05 14:02:33,0.363s,PASSED
+"click(findTestObject(""Object Repository/Cash Receipt/Page_CARD, Inc. Computerized Accounting System/a_Cash Receipts""))",Chrome 114.0.0.0,,,2023-07-05 14:02:33,2023-07-05 14:02:41,7.878s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Cash Receipt/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Per RegionPer AreaPer Unit""), ""2"", true)",Chrome 114.0.0.0,,,2023-07-05 14:02:41,2023-07-05 14:02:42,1.341s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Cash Receipt/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Head OfficeLuzon 1L_eb6cd5""), ""02"", true)",Chrome 114.0.0.0,,,2023-07-05 14:02:42,2023-07-05 14:02:45,2.105s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Cash Receipt/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---La Union 1AbraIloco_046ef5""), ""B6"", true)",Chrome 114.0.0.0,,,2023-07-05 14:02:45,2023-07-05 14:02:46,1.312s,PASSED
+delay(3),Chrome 114.0.0.0,,,2023-07-05 14:02:46,2023-07-05 14:02:49,3.051s,PASSED
+"click(findTestObject(""Object Repository/Cash Receipt/Page_CARD, Inc. Computerized Accounting System/input_End Date_btnPDFCR""))",Chrome 114.0.0.0,,,2023-07-05 14:02:49,2023-07-05 14:02:49,0.487s,PASSED
+delay(10),Chrome 114.0.0.0,,,2023-07-05 14:02:49,2023-07-05 14:02:59,10.009s,PASSED
+,,,,,,,
+Test Cases/Book of Account/Cash Disbursement,Chrome 114.0.0.0,,,2023-07-05 14:03:06,2023-07-05 14:03:20,14.003s,PASSED
+"click(findTestObject(""Object Repository/Cash Disbursement/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:03:06,2023-07-05 14:03:06,0.415s,PASSED
+"click(findTestObject(""Object Repository/Cash Disbursement/Page_CARD, Inc. Computerized Accounting System/a_Book of Accounts""))",Chrome 114.0.0.0,,,2023-07-05 14:03:06,2023-07-05 14:03:06,0.401s,PASSED
+"click(findTestObject(""Object Repository/Cash Disbursement/Page_CARD, Inc. Computerized Accounting System/a_Cash Disbursement""))",Chrome 114.0.0.0,,,2023-07-05 14:03:06,2023-07-05 14:03:14,8.144s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Cash Disbursement/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Per RegionPer AreaPer Unit""), ""2"", true)",Chrome 114.0.0.0,,,2023-07-05 14:03:14,2023-07-05 14:03:16,1.138s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Cash Disbursement/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Head OfficeLuzon 1L_eb6cd5""), ""02"", true)",Chrome 114.0.0.0,,,2023-07-05 14:03:16,2023-07-05 14:03:18,2.189s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Cash Disbursement/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---La Union 1AbraIloco_046ef5""), ""B6"", true)",Chrome 114.0.0.0,,,2023-07-05 14:03:18,2023-07-05 14:03:19,1.265s,PASSED
+"click(findTestObject(""Object Repository/Cash Disbursement/Page_CARD, Inc. Computerized Accounting System/input_End Date_btnPDFCD""))",Chrome 114.0.0.0,,,2023-07-05 14:03:19,2023-07-05 14:03:20,0.448s,PASSED
+,,,,,,,
+Test Cases/Book of Account/OR Summary,Chrome 114.0.0.0,,,2023-07-05 14:03:20,2023-07-05 14:03:57,37.746s,PASSED
+"click(findTestObject(""Object Repository/OR Summary/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:03:20,2023-07-05 14:03:20,0.189s,PASSED
+"click(findTestObject(""Object Repository/OR Summary/Page_CARD, Inc. Computerized Accounting System/a_Other Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:03:20,2023-07-05 14:03:22,2.224s,PASSED
+"click(findTestObject(""Object Repository/OR Summary/Page_CARD, Inc. Computerized Accounting System/a_Book of Accounts""))",Chrome 114.0.0.0,,,2023-07-05 14:03:22,2023-07-05 14:03:24,2.027s,PASSED
+"click(findTestObject(""Object Repository/OR Summary/Page_CARD, Inc. Computerized Accounting System/a_OR Summary""))",Chrome 114.0.0.0,,,2023-07-05 14:03:24,2023-07-05 14:03:35,10.563s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/OR Summary/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Head OfficeLuzon 1L_eb6cd5""), ""99"", true)",Chrome 114.0.0.0,,,2023-07-05 14:03:35,2023-07-05 14:03:41,6.412s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/OR Summary/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---HEAD OFFICEIT liaison""), ""01"", true)",Chrome 114.0.0.0,,,2023-07-05 14:03:41,2023-07-05 14:03:47,6.085s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/OR Summary/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---HEAD OFFICE""), ""01"", true)",Chrome 114.0.0.0,,,2023-07-05 14:03:47,2023-07-05 14:03:53,5.942s,PASSED
+"click(findTestObject(""Object Repository/OR Summary/Page_CARD, Inc. Computerized Accounting System/div_End Date""))",Chrome 114.0.0.0,,,2023-07-05 14:03:53,2023-07-05 14:03:55,1.918s,PASSED
+"click(findTestObject(""Object Repository/OR Summary/Page_CARD, Inc. Computerized Accounting System/input_End Date_btnPDFOR""))",Chrome 114.0.0.0,,,2023-07-05 14:03:55,2023-07-05 14:03:57,2.039s,PASSED
+,,,,,,,
+Test Cases/Other Reports/Trial Balance,Chrome 114.0.0.0,,,2023-07-05 14:03:57,2023-07-05 14:04:34,37.177s,PASSED
+"click(findTestObject(""Object Repository/Trial Balance/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:03:57,2023-07-05 14:03:58,0.151s,PASSED
+"click(findTestObject(""Object Repository/Trial Balance/Page_CARD, Inc. Computerized Accounting System/a_Other Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:03:58,2023-07-05 14:03:59,1.674s,PASSED
+"click(findTestObject(""Object Repository/Trial Balance/Page_CARD, Inc. Computerized Accounting System/a_Trial Balance Report""))",Chrome 114.0.0.0,,,2023-07-05 14:03:59,2023-07-05 14:04:10,10.999s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Trial Balance/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Per RegionPer AreaPer Unit""), ""2"", true)",Chrome 114.0.0.0,,,2023-07-05 14:04:10,2023-07-05 14:04:16,5.975s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Trial Balance/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Head OfficeLuzon 1L_eb6cd5""), ""02"", true)",Chrome 114.0.0.0,,,2023-07-05 14:04:16,2023-07-05 14:04:26,9.943s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Trial Balance/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---La Union 1AbraIloco_046ef5""), ""B6"", true)",Chrome 114.0.0.0,,,2023-07-05 14:04:26,2023-07-05 14:04:34,8.221s,PASSED
+,,,,,,,
+Test Cases/In and Out/Logout,Chrome 114.0.0.0,,,2023-07-05 14:04:34,2023-07-05 14:04:40,5.854s,PASSED
+"click(findTestObject(""Object Repository/Logout/Page_CARD, Inc. Computerized Accounting System/a_Welcome  RILI                        Admi_b75451""))",Chrome 114.0.0.0,,,2023-07-05 14:04:35,2023-07-05 14:04:37,2.577s,PASSED
+"click(findTestObject(""Object Repository/Logout/Page_CARD, Inc. Computerized Accounting System/a_Logout""))",Chrome 114.0.0.0,,,2023-07-05 14:04:37,2023-07-05 14:04:40,3.065s,PASSED

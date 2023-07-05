@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CAS Report,Chrome 114.0.0.0,,,2023-07-05 14:46:34,2023-07-05 14:46:52,18.408s,FAILED
+,,,,,,,
+Test Cases/In and Out/Login,Chrome 114.0.0.0,,,2023-07-05 14:46:34,2023-07-05 14:46:39,5.396s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-05 14:46:34,2023-07-05 14:46:37,2.449s,PASSED
+"navigateToUrl(""https://castest.cardmri.com:8269/NGOFSReport/index.jsp"")",Chrome 114.0.0.0,,,2023-07-05 14:46:37,2023-07-05 14:46:37,0.668s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-05 14:46:37,2023-07-05 14:46:38,0.165s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_userName""), Username)",Chrome 114.0.0.0,,,2023-07-05 14:46:38,2023-07-05 14:46:38,0.822s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_passWord""), ""MHSUC33hkPnBWRnjFBNCPA=="")",Chrome 114.0.0.0,,,2023-07-05 14:46:38,2023-07-05 14:46:39,0.488s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_loginButton""))",Chrome 114.0.0.0,,,2023-07-05 14:46:39,2023-07-05 14:46:39,0.416s,PASSED
+,,,,,,,
+Test Cases/Book of Account/General Ledger,Chrome 114.0.0.0,,,2023-07-05 14:46:45,2023-07-05 14:46:45,0.200s,FAILED
+"click(findTestObject(""Object Repository/General Ledger/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:46:45,2023-07-05 14:46:45,0.187s,FAILED
+,,,,,,,
+Test Cases/Book of Account/General Journal,Chrome 114.0.0.0,,,2023-07-05 14:46:46,2023-07-05 14:46:46,0.184s,FAILED
+"click(findTestObject(""Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:46:46,2023-07-05 14:46:46,0.182s,FAILED
+,,,,,,,
+Test Cases/Book of Account/Cash Receipt,Chrome 114.0.0.0,,,2023-07-05 14:46:47,2023-07-05 14:46:47,0.161s,FAILED
+"click(findTestObject(""Object Repository/Cash Receipt/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:46:47,2023-07-05 14:46:47,0.158s,FAILED
+,,,,,,,
+Test Cases/Book of Account/Cash Disbursement,Chrome 114.0.0.0,,,2023-07-05 14:46:48,2023-07-05 14:46:48,0.177s,FAILED
+"click(findTestObject(""Object Repository/Cash Disbursement/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:46:48,2023-07-05 14:46:48,0.170s,FAILED
+,,,,,,,
+Test Cases/Book of Account/OR Summary,Chrome 114.0.0.0,,,2023-07-05 14:46:49,2023-07-05 14:46:49,0.179s,FAILED
+"click(findTestObject(""Object Repository/OR Summary/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:46:49,2023-07-05 14:46:49,0.174s,FAILED
+,,,,,,,
+Test Cases/Other Reports/Trial Balance,Chrome 114.0.0.0,,,2023-07-05 14:46:50,2023-07-05 14:46:50,0.180s,FAILED
+"click(findTestObject(""Object Repository/Trial Balance/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:46:50,2023-07-05 14:46:50,0.177s,FAILED
+,,,,,,,
+Test Cases/Other Reports/Income Statement,Chrome 114.0.0.0,,,2023-07-05 14:46:51,2023-07-05 14:46:51,0.163s,FAILED
+"click(findTestObject(""Object Repository/Income Statement/Page_CARD, Inc. Computerized Accounting System/a_Reports""))",Chrome 114.0.0.0,,,2023-07-05 14:46:51,2023-07-05 14:46:51,0.159s,FAILED
+,,,,,,,
+Test Cases/In and Out/Logout,Chrome 114.0.0.0,,,2023-07-05 14:46:52,2023-07-05 14:46:52,0.170s,FAILED
+"click(findTestObject(""Object Repository/Logout/Page_CARD, Inc. Computerized Accounting System/a_Welcome  RILI                        Admi_b75451""))",Chrome 114.0.0.0,,,2023-07-05 14:46:52,2023-07-05 14:46:52,0.168s,FAILED
