@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_---Select Item---HEAD OFFICE</name>
+   <tag></tag>
+   <elementGuidId>a7c8a8aa-81ef-48a4-a1e8-b5dc9ca5a40e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cboUnit1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cboUnit1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>361dda1f-b003-4282-a1cb-cd1d15c9a3b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cboUnit1</value>
+      <webElementGuid>b43f5c8a-4c9e-43dd-a101-54a60c581432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiple_select multiple_select_active</value>
+      <webElementGuid>9de9a0db-af84-4875-8e3a-3fba170c9f8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>---Select Item---HEAD OFFICE</value>
+      <webElementGuid>a9d9f383-81d4-42f6-80fd-b64a0a54899e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cboUnit1&quot;)</value>
+      <webElementGuid>baf24e57-22eb-4fcc-844d-866703fc7d45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cboUnit1']</value>
+      <webElementGuid>f100be4f-1361-47a5-b0e1-d7fdca258314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div/div/div/div/div[3]/select</value>
+      <webElementGuid>c57c67cd-3015-4ab9-83a0-57b45148fae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit'])[1]/following::select[1]</value>
+      <webElementGuid>4ba1307d-05ee-47f8-b621-001fcc0f6179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/following::select[2]</value>
+      <webElementGuid>fca519e5-2b88-4fb8-953d-5027c2de481f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>8891b451-4f41-4ecc-8ccd-17bbd9958ae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>f83a84a7-855b-41bf-b2ab-080d73a650c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>63f9bd44-1bb0-4e10-a075-c12cbfb8000d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'cboUnit1' and (text() = '---Select Item---HEAD OFFICE' or . = '---Select Item---HEAD OFFICE')]</value>
+      <webElementGuid>1d935df4-e4c4-4c97-ab25-9d45417303af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
