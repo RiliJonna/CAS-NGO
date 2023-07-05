@@ -39,7 +39,14 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fb79f851-88e9-44ed-b140-48366a1d2541</guid>
+      <guid>eb17267a-b867-41cb-aed8-030192ab244d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Book of Account/Cash Receipt</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>919e1b1c-69a0-4d72-aa39-7bdfb7c717a2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/In and Out/Logout</testCaseId>
