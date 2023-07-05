@@ -60,7 +60,14 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>05c7298f-3080-4d02-b711-b0aca6d9fef9</guid>
+      <guid>0098c560-61a2-4b2f-a376-802138e0599b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Other Reports/Trial Balance</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3d7c4ff7-d454-4860-b65d-cc2b8614bba7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/In and Out/Logout</testCaseId>

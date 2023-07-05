@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Sales Journal</name>
+   <name>a_Logout</name>
    <tag></tag>
-   <elementGuidId>d07cb9e7-ebf3-4d7e-b861-713c21c4f228</elementGuidId>
+   <elementGuidId>aa5eb2ea-a4fb-416d-b70c-5ed89cf2f643</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//ul[@id='Reportid1']/li[3]/a</value>
+         <key>CSS</key>
+         <value>#Logout</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#Reportid1 > li:nth-of-type(3) > a</value>
+         <key>XPATH</key>
+         <value>//a[@id='Logout']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,110 +22,126 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3df47cef-ebc0-4dd1-8aba-01da1720537c</webElementGuid>
+      <webElementGuid>71c7d1cf-84be-408b-b21b-2693cd422ba1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>salesjournal.jsp</value>
-      <webElementGuid>4316981d-d21b-4792-b7a6-81e615f64c1d</webElementGuid>
+      <value>javascript:void(0)</value>
+      <webElementGuid>62a2e09f-f7a2-46da-ac3f-adb8a4aa2a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>8c7aeb7f-3bec-4484-a381-17ac0200dd5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sales Journal</value>
-      <webElementGuid>803ed88b-0cfa-4cfc-a5fa-98ab2434097d</webElementGuid>
+      <value> Logout</value>
+      <webElementGuid>a9efba8e-fd6d-4af0-b34f-fe9328489fea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;Reportid1&quot;)/li[3]/a[1]</value>
-      <webElementGuid>2044f93c-200a-499b-b6f6-bbf9c8c255b6</webElementGuid>
+      <value>id(&quot;Logout&quot;)</value>
+      <webElementGuid>bee55535-e781-4a6e-8d50-f7bb02ab34e4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='Logout']</value>
+      <webElementGuid>5107c7f0-67cd-4256-8473-37797a154e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='Reportid1']/li[3]/a</value>
-      <webElementGuid>ad65a620-3867-4fe4-8ad1-6901c64bc004</webElementGuid>
+      <value>//ul[@id='UserPanel']/li[5]/a</value>
+      <webElementGuid>e9db1745-0a3e-415c-a3a1-c59c8b1303ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Sales Journal')]</value>
-      <webElementGuid>19d2d3b2-f972-465a-b7d6-a28e71db60fb</webElementGuid>
+      <value>//a[contains(text(),'Logout')]</value>
+      <webElementGuid>84f8fef2-d1f6-49bf-afec-1477d71823ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Journal'])[1]/following::a[1]</value>
-      <webElementGuid>91c49161-9e83-470a-b60d-5b52887dd666</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Password'])[1]/following::a[1]</value>
+      <webElementGuid>f4829ea0-132f-417f-9ed7-436ed97c0568</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Ledger'])[1]/following::a[2]</value>
-      <webElementGuid>8a20d96d-76db-4015-8c20-2b8a5cae6e3c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Transaction'])[1]/following::a[2]</value>
+      <webElementGuid>0c718035-08a5-4d2a-a657-b884efea0de5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase Journal'])[1]/preceding::a[1]</value>
-      <webElementGuid>25f6fd66-e9bc-4725-b12b-33a6a167f46f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::a[1]</value>
+      <webElementGuid>216d57d2-63eb-4f30-a293-304a837459ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash Receipts'])[1]/preceding::a[2]</value>
-      <webElementGuid>15766270-7af1-4933-b418-19f5727a856c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts'])[1]/preceding::a[2]</value>
+      <webElementGuid>80fa9b23-dc56-4464-9290-129fc28ef5b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sales Journal']/parent::*</value>
-      <webElementGuid>9391a7c5-4df7-4ff5-adea-f675521a1f78</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>d67ad45b-305f-4801-873a-979e34c19199</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'salesjournal.jsp')]</value>
-      <webElementGuid>b7ec8eee-13d7-4ce5-8f52-297fef0b0be3</webElementGuid>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[4]</value>
+      <webElementGuid>532ca65a-b956-4336-922a-7e31f95a7d2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/ul/li/ul/li[3]/a</value>
-      <webElementGuid>1092b626-e234-4e3d-a44d-03b4673a29de</webElementGuid>
+      <value>//li[5]/a</value>
+      <webElementGuid>8760c9dd-b621-41d7-a1ee-24bc9ea876ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'salesjournal.jsp' and (text() = 'Sales Journal' or . = 'Sales Journal')]</value>
-      <webElementGuid>368da2c8-885b-4458-85d0-52b076de41dc</webElementGuid>
+      <value>//a[@href = 'javascript:void(0)' and @id = 'Logout' and (text() = ' Logout' or . = ' Logout')]</value>
+      <webElementGuid>1e0376bd-8a1f-4e13-9e94-2964ee1e15b0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

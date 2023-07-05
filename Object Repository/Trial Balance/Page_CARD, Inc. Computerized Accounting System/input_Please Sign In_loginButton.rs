@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_End Date_btnPDFSJ</name>
+   <name>input_Please Sign In_loginButton</name>
    <tag></tag>
-   <elementGuidId>814ad2eb-9648-4493-9ed2-3b7f91a1a119</elementGuidId>
+   <elementGuidId>c1bf549d-bad5-4fd8-a1a3-73228664fcc8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='btnPDFSJ']</value>
+         <key>CSS</key>
+         <value>#loginButton</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#btnPDFSJ</value>
+         <key>XPATH</key>
+         <value>//input[@id='loginButton']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>486a9748-9ca1-4cc3-8fe8-51d0b699db6c</webElementGuid>
+      <webElementGuid>b07d20a2-8f34-49a4-b72a-760e66fa0a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>loginButton</value>
+      <webElementGuid>0db282a3-f3d7-4570-9d0f-2cb259408a9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,70 +38,54 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>27f2ff13-9d5b-448b-9b82-c57acae5c7a1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>btnPDFSJ</value>
-      <webElementGuid>08db7520-61e8-4d08-a5eb-b0ca3f75f3fb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-danger</value>
-      <webElementGuid>abd875d2-387a-406f-bd78-1a379544ed15</webElementGuid>
+      <webElementGuid>f64a33c0-baf3-4af3-a23b-e87cb0d105e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>View PDF</value>
-      <webElementGuid>ed89283d-fc1a-48be-96c1-5757d4aec57c</webElementGuid>
+      <value>Login</value>
+      <webElementGuid>99048a0d-e9dd-4724-af65-1aaa7ad089d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg btn-success btn-block</value>
+      <webElementGuid>bad1ef8a-01e6-4876-8092-152dddee4b3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btnPDFSJ&quot;)</value>
-      <webElementGuid>b99a35f5-55e7-4e04-a20f-28412456f806</webElementGuid>
+      <value>id(&quot;loginButton&quot;)</value>
+      <webElementGuid>63e1971e-065f-4246-bde8-bda67009c73d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='btnPDFSJ']</value>
-      <webElementGuid>c210a95f-255c-4c6e-bf37-18eefc986a5d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='page-wrapper']/div/div/div/div/div[4]/input[2]</value>
-      <webElementGuid>22ba57f2-27d1-4fee-b5bf-afe417913320</webElementGuid>
+      <value>//input[@id='loginButton']</value>
+      <webElementGuid>a1030317-7142-4b0b-9a71-503f4d2736a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input[2]</value>
-      <webElementGuid>5f71c9f9-553b-42ff-abac-a6adf23954ad</webElementGuid>
+      <value>//fieldset/input</value>
+      <webElementGuid>f5cc3d92-fa17-4efa-9f2d-a4c4615aa6d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'button' and @id = 'btnPDFSJ']</value>
-      <webElementGuid>4e2143cd-ba80-49c1-91a3-4d34395ea2f3</webElementGuid>
+      <value>//input[@id = 'loginButton' and @type = 'button']</value>
+      <webElementGuid>99680072-cfb8-4e79-b77d-9b1e1b25d762</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

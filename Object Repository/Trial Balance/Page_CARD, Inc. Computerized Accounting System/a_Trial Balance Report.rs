@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Reports</name>
+   <name>a_Trial Balance Report</name>
    <tag></tag>
-   <elementGuidId>e6bd4dbd-e87a-4150-8532-c644ca5dd686</elementGuidId>
+   <elementGuidId>eb1ef0fe-5523-47d3-aac9-9044c5072157</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='modulenav3']/a</value>
+         <key>CSS</key>
+         <value>#Report2 > li > a</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#modulenav3 > a</value>
+         <key>XPATH</key>
+         <value>//ul[@id='Report2']/li/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,110 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>470b74e3-dc08-4465-b2e2-dd3aa8e86bb6</webElementGuid>
+      <webElementGuid>3dbb8a77-130c-4322-ad5f-ff5ec4c0b2db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>javascript:void(0)</value>
-      <webElementGuid>6497763c-f1b5-476c-8e7c-0d252b9de590</webElementGuid>
+      <value>Trial_Balance.jsp</value>
+      <webElementGuid>f68432a3-739d-488b-9687-bcce0c761450</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Reports</value>
-      <webElementGuid>2cc7be76-6a42-4405-b404-61f9cfdbaae7</webElementGuid>
+      <value>Trial Balance Report</value>
+      <webElementGuid>b21dd5a2-6762-468c-9d6a-cb416d53e2bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modulenav3&quot;)/a[1]</value>
-      <webElementGuid>c974f406-0bfd-4f09-833c-f3140727386e</webElementGuid>
+      <value>id(&quot;Report2&quot;)/li[1]/a[1]</value>
+      <webElementGuid>0f8c546c-6a3f-46d5-b088-8b5de6bd7d91</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='modulenav3']/a</value>
-      <webElementGuid>1a4243fa-6fb5-4948-afdb-4f6b4936768b</webElementGuid>
+      <value>//ul[@id='Report2']/li/a</value>
+      <webElementGuid>bfcc8fd8-a573-4b35-ac82-ac8fb262606f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Reports')]</value>
-      <webElementGuid>eeb0e48d-7c0a-4ca3-905f-0e8652d23276</webElementGuid>
+      <value>//a[contains(text(),'Trial Balance Report')]</value>
+      <webElementGuid>5e65c2ab-6ee8-4548-8df9-98dae1806e33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual/Adjustment Entry Batch Upload'])[1]/following::a[1]</value>
-      <webElementGuid>5f9120d3-82a4-4704-9df8-76e03f113f0a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Reports'])[1]/following::a[1]</value>
+      <webElementGuid>948cccd3-9355-42bf-9669-2059268c7395</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='FS/OR Upload'])[1]/following::a[2]</value>
-      <webElementGuid>0be3b03b-200a-4e3d-a584-e8884a0c31f5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR Summary'])[1]/following::a[2]</value>
+      <webElementGuid>e81be2f5-5f65-4d99-a2f6-5520a8db369e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book of Accounts'])[1]/preceding::a[1]</value>
-      <webElementGuid>bc96b210-e928-499e-b1c8-03e9029480e0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Income Statement'])[1]/preceding::a[1]</value>
+      <webElementGuid>1bf3aeae-e937-4944-937f-e3d7e6c774a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Ledger'])[1]/preceding::a[2]</value>
-      <webElementGuid>c900a9b1-d878-448c-8e85-89248b37fae7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balance Sheet'])[1]/preceding::a[2]</value>
+      <webElementGuid>f56593e4-2455-4737-8080-456a9443f24f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Reports']/parent::*</value>
-      <webElementGuid>f3dcc5b7-fb1c-413a-b8c4-19fd216f0181</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Trial Balance Report']/parent::*</value>
+      <webElementGuid>a0393dad-73bd-4fbe-9953-7f1094975059</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, 'javascript:void(0)')])[10]</value>
-      <webElementGuid>6bd3f3da-3006-4c2d-96bf-deffb7b7953a</webElementGuid>
+      <value>//a[contains(@href, 'Trial_Balance.jsp')]</value>
+      <webElementGuid>9905a568-98d1-45d3-8f0e-38f950e3aead</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/ul/li[3]/a</value>
-      <webElementGuid>1febc2d1-39e0-42b5-985b-142bde84683b</webElementGuid>
+      <value>//li[3]/ul/li[2]/ul/li/a</value>
+      <webElementGuid>6dde0fa0-1d63-43f8-be22-bc46f9371f82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'javascript:void(0)' and (text() = 'Reports' or . = 'Reports')]</value>
-      <webElementGuid>4ad4a53b-f1be-42e4-a468-af632f2f0879</webElementGuid>
+      <value>//a[@href = 'Trial_Balance.jsp' and (text() = 'Trial Balance Report' or . = 'Trial Balance Report')]</value>
+      <webElementGuid>f6e2a8a7-06ad-450b-a920-5b1a07fad001</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
