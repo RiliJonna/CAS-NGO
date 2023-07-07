@@ -17,20 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/a_Reports'))
+WebUI.click(findTestObject('Object Repository/Balance Sheet/Page_CARD, Inc. Computerized Accounting System/a_Reports'))
 
-WebUI.click(findTestObject('Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/a_Book of Accounts'))
+WebUI.click(findTestObject('Object Repository/Balance Sheet/Page_CARD, Inc. Computerized Accounting System/a_Other Reports'))
 
-WebUI.click(findTestObject('Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/a_General Journal'))
+WebUI.click(findTestObject('Object Repository/Balance Sheet/Page_CARD, Inc. Computerized Accounting System/a_Balance Sheet'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Per RegionPer AreaPer Unit'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Balance Sheet/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Per RegionPer AreaPer Unit'), 
     '2', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Head OfficeLuzon 1L_eb6cd5'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Balance Sheet/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---Head OfficeLuzon 1L_eb6cd5'), 
     '02', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---La Union 1AbraIloco_046ef5'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Balance Sheet/Page_CARD, Inc. Computerized Accounting System/select_---Select Item---La Union 1AbraIloco_046ef5'), 
     'B6', true)
 
-WebUI.click(findTestObject('Object Repository/General Journal/Page_CARD, Inc. Computerized Accounting System/input_End Date_btnPDF_GJournal'))
+WebUI.click(findTestObject('Object Repository/Balance Sheet/Page_CARD, Inc. Computerized Accounting System/input_Date_btnPDFBS'))
+
+WebUI.click(findTestObject('Object Repository/Balance Sheet/Page_CARD, Inc. Computerized Accounting System/i_RILI_fa fa-user fa-fw'))
+
 

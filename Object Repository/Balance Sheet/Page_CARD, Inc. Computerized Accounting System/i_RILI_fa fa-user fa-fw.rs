@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_RILI_fa fa-user fa-fw</name>
+   <tag></tag>
+   <elementGuidId>a6ab13be-c633-49fe-83da-fa7786e63792</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-user.fa-fw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='WelcomeLabel']/b/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c4c5f685-ee12-4ac7-b071-c1e3cb34baab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-user fa-fw</value>
+      <webElementGuid>b780d0ef-bc3a-4d64-9618-ae0372a55116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;WelcomeLabel&quot;)/b[1]/i[@class=&quot;fa fa-user fa-fw&quot;]</value>
+      <webElementGuid>1dcfdc4f-383a-4a8e-9fe5-27cf551fed11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='WelcomeLabel']/b/i</value>
+      <webElementGuid>32066e06-8015-46a4-91e7-9b0ae23e15ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>cc7c9db5-bf31-4607-89a2-4544c5e798f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
